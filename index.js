@@ -1,0 +1,7 @@
+console.log('Este es un proyecto maravilloso')
+console.log('En donde estamos reunidos todooos')
+console.log('Felipep')
+console.log('Joco')
+console.log('J Hernandez')
+console.log('J Avila')
+console.log('Danny Jimenez')
